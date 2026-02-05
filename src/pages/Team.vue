@@ -163,7 +163,7 @@ import { ref, onMounted } from 'vue'
 const psychologists = ref([
   {
     name: 'Москалюк Інга Василівна',
-    photo: '/public/team/moskalyk.png',
+    photo: '/team/moskalyk.png',
     position: 'center 15%',
     title: 'АРТ-ТЕРАПЕВТ, ГЕШТАЛЬТ (2 СТ)',
     with: 'дітьми і дорослими',
@@ -174,7 +174,7 @@ const psychologists = ref([
   },
   {
     name: 'Аніщенко Тетяна',
-    photo: '/public/team/anishenko.png',
+    photo: '/team/anishenko.png',
     position: 'center 0%',
     title: 'ЛІКАР-ПСИХОЛОГ / ПСИХІАТР',
     with: 'дорослими',
@@ -184,7 +184,7 @@ const psychologists = ref([
     open: false
   }, {
     name: 'Власенко Тетяна',
-    photo: '/public/team/vlasenko.png',
+    photo: '/team/vlasenko.png',
     position: 'center 20%',
     title: 'ПСИХОЛОГ, ГЕШТАЛЬТ-КОНСУЛЬТАНТ (2 СТ)',
     with: 'дітьми',
@@ -195,7 +195,7 @@ const psychologists = ref([
   },
   {
     name: 'Марціновська Ірина',
-    photo: '/public/team/marcinovska.png',
+    photo: '/team/marcinovska.png',
     position: 'center 25%',
     title: 'ПСИХОЛОГ',
     with: 'дітьми та дорослими',
@@ -206,7 +206,7 @@ const psychologists = ref([
   },
     {
     name: 'Шкарпітко Діана',
-    photo: '/public/team/shkarpitko.png',
+    photo: '/team/shkarpitko.png',
     position: 'center 25%',
     title: 'ПСИХОЛОГ',
     with: 'дорослими',
@@ -217,7 +217,7 @@ const psychologists = ref([
   },
       {
     name: 'Гончар Тетяна',
-    photo: '/public/team/gonchartetyana.png',
+    photo: '/team/gonchartetyana.png',
     position: 'center 5%',
     title: 'ПСИХОЛОГ',
     with: 'дітьми, підлітками, дорослими',
@@ -228,7 +228,7 @@ const psychologists = ref([
   },
   {
   name: 'Федорова Тетяна',
-  photo: '/public/team/fedorova-tetiana.png',
+  photo: '/team/fedorova-tetiana.png',
   position: 'center 35%',
   title: 'ПСИХОЛОГ, ПСИХОТЕРАПЕВТ',
   with: 'дітьми, підлітками, дорослими',
@@ -239,7 +239,7 @@ const psychologists = ref([
 },
 {
   name: 'Драбич Тетяна',
-  photo: '/public/team/drabych-tetiana.png',
+  photo: '/team/drabych-tetiana.png',
   position: 'center 0%',
   title: 'ПСИХОЛОГ',
   with: 'дітьми та дорослими',
@@ -250,7 +250,7 @@ const psychologists = ref([
 },
 {
   name: 'Христенко Віталій',
-  photo: '/public/team/khrystenko-vitalii.png',
+  photo: '/team/khrystenko-vitalii.png',
   position: 'center 10%',
   title: 'ПСИХОЛОГ',
   with: 'дорослими',
@@ -261,7 +261,7 @@ const psychologists = ref([
 },
 {
   name: 'Герман Олена',
-  photo: '/public/team/herman-olena.png',
+  photo: '/team/herman-olena.png',
   position: 'center 0%',
   title: 'ПСИХОЛОГ-КОНСУЛЬТАНТ (ПОЗИТИВНА ПСИХОТЕРАПІЯ)',
   with: 'дорослими',
@@ -272,7 +272,7 @@ const psychologists = ref([
 },
 {
   name: 'Шкарлатюк Катерина',
-  photo: '/public/team/shkarlatiuk-kateryna.png',
+  photo: '/team/shkarlatiuk-kateryna.png',
   position: 'center 0%',
   title: 'ПСИХОЛОГ',
   with: 'дорослими',
@@ -283,7 +283,7 @@ const psychologists = ref([
 },
 {
   name: 'Тристан Вікторія',
-  photo: '/public/team/trystan-viktoriia.png',
+  photo: '/team/trystan-viktoriia.png',
   position: 'center 20%',
   title: 'ПСИХОЛОГ-МЕТОДИСТ, АРТ-ТЕРАПЕВТ, ХІБУКІТЕРАПЕВТ',
   with: 'дітьми, підлітками,дорослими',
@@ -294,7 +294,7 @@ const psychologists = ref([
 },
 {
   name: 'Маркс Марина',
-  photo: '/public/team/marks-marina.png',
+  photo: '/team/marks-marina.png',
   position: 'center 15%',
   title: 'ПСИХОЛОГ',
   with: 'дітьми та дорослими',
@@ -305,7 +305,7 @@ const psychologists = ref([
 },
 {
   name: 'Карепова Елліна',
-  photo: '/public/team/karepova-ellina.png',
+  photo: '/team/karepova-ellina.png',
   position: 'center 15%',
   title: 'ПСИХОЛОГ, ТІЛЕСНО-ОРІЄНТОВАНИЙ ТЕРАПЕВТ',
   with: 'дітьми, підлітками. дорослими',
@@ -316,7 +316,7 @@ const psychologists = ref([
 },
 {
   name: 'Франчук Тетяна',
-  photo: '/public/team/franchuk-tetiana.png',
+  photo: '/team/franchuk-tetiana.png',
   position: 'center 25%',
   title: 'ПСИХОЛОГ, ПСИХОТЕРАПЕВТ ССТ',
   with: 'дітьми та дорослими',
