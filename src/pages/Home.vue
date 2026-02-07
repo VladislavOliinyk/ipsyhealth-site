@@ -59,9 +59,9 @@ onMounted(() => {
       </p>
 
       <div v-if="showHero" class="flex gap-6 pt-1 fade">
-        <a href="#" class="social-link">{{ $t('hero.social.facebook') }}</a>
-        <a href="#" class="social-link">{{ $t('hero.social.youtube') }}</a>
-        <a href="#" class="social-link">{{ $t('hero.social.telegram') }}</a>
+        <a href="https://www.facebook.com/InstituteofHealthPsychology" class="social-link">{{ $t('hero.social.facebook') }}</a>
+        <a href="http://www.youtube.com/@healthpsychology7961" class="social-link">{{ $t('hero.social.youtube') }}</a>
+        <a href="https://t.me/HealthPsycholog/" class="social-link">{{ $t('hero.social.telegram') }}</a>
       </div>
     </div>
 
