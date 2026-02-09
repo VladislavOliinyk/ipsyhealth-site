@@ -99,7 +99,7 @@
               </svg>
             </a>
 
-            <a href="#" aria-label="Instagram" class="social-icon">
+            <a href="https://www.instagram.com/health_psychology_u?igsh=amxpbzlleHE2eDE5" aria-label="Instagram" class="social-icon">
               <svg viewBox="0 0 24 24" class="h-5 w-5">
                 <path
                   fill="currentColor"
@@ -108,7 +108,7 @@
               </svg>
             </a>
 
-            <a href="#" aria-label="YouTube" class="social-icon">
+            <a href="http://www.youtube.com/@healthpsychology7961" aria-label="YouTube" class="social-icon">
               <svg viewBox="0 0 24 24" class="h-5 w-5">
                 <path
                   fill="currentColor"
