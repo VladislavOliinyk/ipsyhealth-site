@@ -66,50 +66,50 @@
 
     <!-- LOCAL REPRESENTATIVES -->
     <section class="pb-28">
-      <div class="max-w-6xl mx-auto px-6 space-y-8">
+      <div class="max-w-6xl mx-auto px-6 space-y-8 dark:text-neutral-300">
         <h2 class="text-xl font-semibold text-neutral-900 dark:text-white text-center">
           Представництва по Україні
         </h2>
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div class="p-6 border border-neutral-200 dark:border-neutral-800 rounded-2xl">
-            <p class="text-lg font-semibold text-center">Запоріжжя</p>
+            <p class="text-lg font-semibold text-center dark:text-white">Запоріжжя</p>
             <p>Панасенко Оксана</p>
             <p>📞 +380 50 440 6311</p>
             <p>✉️ poazp@ukr.net</p>
           </div>
           <div class="p-6 border border-neutral-200 dark:border-neutral-800 rounded-2xl">
-            <p class="text-lg font-semibold text-center">Одеса</p>
+            <p class="text-lg font-semibold text-center dark:text-white">Одеса</p>
             <p>Стратієвська Анастасія</p>
             <p>📞 +380 50 505 8941</p>
             <p>✉️ nastyavalery3@gmail.com</p>
           </div>
           <div class="p-6 border border-neutral-200 dark:border-neutral-800 rounded-2xl">
-            <p class="text-lg font-semibold text-center">Львів</p>
+            <p class="text-lg font-semibold text-center dark:text-white">Львів</p>
             <p>Клочник Надія</p>
             <p>📞 +380 97 589 6655</p>
             <p>✉️ klochnyk.nm@gmail.com</p>
           </div>
           <div class="p-6 border border-neutral-200 dark:border-neutral-800 rounded-2xl">
-            <p class="text-lg font-semibold text-center">Дніпро</p>
+            <p class="text-lg font-semibold text-center dark:text-white">Дніпро</p>
             <p>Карепова Елліна</p>
             <p>📞 067 993 9683</p>
             <p>✉️ iph.dnipro@gmail.com</p>
           </div>
           <div class="p-6 border border-neutral-200 dark:border-neutral-800 rounded-2xl">
-            <p class="text-lg font-semibold text-center">Вишневе</p>
+            <p class="text-lg font-semibold text-center dark:text-white">Вишневе</p>
             <p>Франчук Тетяна</p>
             <p>📞 +380 93 609 2691</p>
             <p>✉️ iph.vyshneve@gmail.com</p>
           </div>
           <div class="p-6 border border-neutral-200 dark:border-neutral-800 rounded-2xl">
-            <p class="text-lg font-semibold text-center">Суми</p>
+            <p class="text-lg font-semibold text-center dark:text-white">Суми</p>
             <p>Данілова Дарʼя</p>
             <p>📞 +380 95 572 6854</p>
             <p>✉️ psy.danilova.daria@gmail.com</p>
           </div>
           <div class="p-6 border border-neutral-200 dark:border-neutral-800 rounded-2xl">
-            <p class="text-lg font-semibold text-center">Івано-Франківськ</p>
+            <p class="text-lg font-semibold text-center dark:text-white">Івано-Франківськ</p>
             <p>Дичківська Галина</p>
             <p>📞 +380 95 105 7555</p>
             <p>✉️ iph.ivano.frankivsk@gmail.com</p>
@@ -120,7 +120,7 @@
 
     <!-- CONTACTS TABLE -->
     <section class="pb-32">
-      <div class="max-w-7xl mx-auto px-6 space-y-6">
+      <div class="max-w-7xl mx-auto px-6 space-y-6 dark:text-neutral-300">
         <h2 class="text-xl font-semibold text-neutral-900 dark:text-white">
           Контактна інформація
         </h2>

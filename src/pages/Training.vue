@@ -81,7 +81,7 @@
 
   <!-- INTRO -->
   <section class="max-w-4xl mx-auto space-y-6">
-    <h2 class="text-2xl md:text-3xl font-semibold text-center">
+    <h2 class="text-2xl md:text-3xl font-semibold text-center dark:text-white">
       Програма призначена для керівників груп психологічної підтримки, які працюють:
     </h2>
 
@@ -127,7 +127,7 @@
       </div>
     </div>
 
-    <h3 class="text-xl font-semibold mb-1">Запис навчання</h3>
+    <h3 class="text-xl font-semibold mb-1 dark:text-white">Запис навчання</h3>
     <p class="text-sm font-medium text-neutral-500 mb-4">Кнут Андерсен, Норвегія</p>
 
     <p class="text-sm text-neutral-600 dark:text-neutral-400 mb-6">
@@ -158,7 +158,7 @@
       </div>
     </div>
 
-    <h3 class="text-xl font-semibold mb-4">Онлайн формат навчання</h3>
+    <h3 class="text-xl font-semibold mb-4 dark:text-white">Онлайн формат навчання</h3>
 
     <p class="text-sm text-neutral-600 dark:text-neutral-400 mb-6">
       Навчання онлайн — для вашої безпеки та зручності.
@@ -199,7 +199,7 @@
       </div>
     </div>
 
-    <h3 class="text-xl font-semibold mb-4">Офлайн формат навчання</h3>
+    <h3 class="text-xl font-semibold mb-4 dark:text-white">Офлайн формат навчання</h3>
 
     <p class="text-sm text-neutral-600 dark:text-neutral-400 mb-6">
       Дати очного навчання будуть вказані в календарі подій.
@@ -251,7 +251,7 @@
   <section class="grid grid-cols-1 md:grid-cols-2 gap-10">
 
     <div class="p-8 rounded-3xl bg-blue-50 dark:bg-blue-950 border border-blue-100 dark:border-blue-900">
-      <h3 class="text-xl font-semibold mb-4">Група авторів</h3>
+      <h3 class="text-xl font-semibold mb-4 dark:text-white">Група авторів</h3>
       <p class="text-sm text-neutral-700 dark:text-neutral-300 leading-relaxed">
         Карі Е. Бюгге, Хеге Сантандер, Анне Каро Орфосс, Карен Тересе Сулхейм Хогстведт,
         Еліне Греллан Рьокхольт та психолог Айнхіль Селнес.
@@ -259,7 +259,7 @@
     </div>
 
     <div class="p-8 rounded-3xl bg-emerald-50 dark:bg-emerald-950 border border-emerald-100 dark:border-emerald-900">
-      <h3 class="text-xl font-semibold mb-4">Подяка</h3>
+      <h3 class="text-xl font-semibold mb-4 dark:text-white">Подяка</h3>
       <p class="text-sm text-neutral-700 dark:text-neutral-300 leading-relaxed">
         Ми вдячні Кнуту Андерсену та Лінді Хансен за підтримку, а також усім керівникам
         груп підтримки за участь у розвитку програми протягом багатьох років.
@@ -275,7 +275,7 @@
             <div v-if="activeTab === 3" class="space-y-32">
 
               <section class="text-center max-w-4xl mx-auto bg-gradient-to-br from-blue-50 to-white dark:from-blue-950 dark:to-neutral-900 p-10 rounded-3xl border border-blue-100 dark:border-blue-900">
-                <h2 class="text-2xl font-semibold mb-6">
+                <h2 class="text-2xl font-semibold mb-6 dark:text-white">
                   Цей метод є простим, і водночас ефективним терапевтичним засобом, метою якого є
                   позбавлення людини психосоматичних розладів.
                 </h2>
@@ -298,7 +298,7 @@
                   <span class="text-neutral-400"><img src="/images/perevagy.png" alt="BST Method" class="w-full h-full"></span>
                 </div>
                 <div>
-                  <h3 class="text-xl font-semibold mb-4">Переваги біосугестивної терапії:</h3>
+                  <h3 class="text-xl font-semibold mb-4 dark:text-white">Переваги біосугестивної терапії:</h3>
                   <ul class="space-y-3 text-neutral-700 dark:text-neutral-300">
                     <li>✔ Для сеансу потрібно 18 хвилин.</li>
                     <li>✔ Позитивний ефект після першого сеансу.</li>
@@ -310,7 +310,7 @@
 
               <section class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center p-8 rounded-3xl border border-neutral-200 dark:border-neutral-800 bg-neutral-50 dark:bg-neutral-900">
                 <div>
-                  <h3 class="text-xl font-semibold mb-4">
+                  <h3 class="text-xl font-semibold mb-4 dark:text-white">
                     Повна вартість курсу – еквівалент 120 євро, до якого входить:
                   </h3>
                   <ul class="space-y-3 text-neutral-700 dark:text-neutral-300">
