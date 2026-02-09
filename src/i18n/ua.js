@@ -2,8 +2,8 @@ export default {
   nav: {
     home: 'Головна',
     about: 'Про нас',
-    directions: 'Напрями',
-    tools: 'Інструменти',
+    team: 'Команда',
+    training: 'Навчання',
     contacts: 'Контакти',
   },
 

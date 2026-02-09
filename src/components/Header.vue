@@ -31,13 +31,13 @@ const { t, locale } = useI18n()
       </div>
 
       <!-- MENU -->
-      <nav class="hidden md:flex gap-8 text-sm font-medium">
-        <RouterLink to="/" class="nav-link">{{ t('nav.home') }}</RouterLink>
-        <RouterLink to="/about" class="nav-link">{{ t('nav.about') }}</RouterLink>
-        <RouterLink to="/team" class="nav-link">Команда</RouterLink>
-        <RouterLink to="/training" class="nav-link">Навчання</RouterLink>
-        <RouterLink to="/contacts" class="nav-link">{{ t('nav.contacts') }}</RouterLink>
-      </nav>
+<nav class="hidden md:flex gap-8 text-sm font-medium">
+  <RouterLink to="/" class="nav-link">{{ t('nav.home') }}</RouterLink>
+  <RouterLink to="/about" class="nav-link">{{ t('nav.about') }}</RouterLink>
+<RouterLink to="/team" class="nav-link">{{ $t('nav.team') }}</RouterLink>
+<RouterLink to="/training" class="nav-link">{{ $t('nav.training') }}</RouterLink>
+  <RouterLink to="/contacts" class="nav-link">{{ t('nav.contacts') }}</RouterLink>
+</nav>
 
       <!-- ACTIONS -->
       <div class="flex items-center gap-4">

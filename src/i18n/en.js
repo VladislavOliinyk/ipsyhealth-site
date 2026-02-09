@@ -2,11 +2,10 @@ export default {
   nav: {
     home: 'Home',
     about: 'About',
-    directions: 'Directions',
-    tools: 'Tools',
+    team: 'Team',
+    training: 'Training',
     contacts: 'Contacts',
   },
-
    hero: {
     title: 'Institute of Health Psychology',
     description:
