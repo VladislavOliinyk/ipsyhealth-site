@@ -2,6 +2,7 @@
 import { ref, watch, onMounted } from 'vue'
 import Header from './components/Header.vue'
 import Footer from './components/layout/Footer.vue'
+import BackToTop from './components/BackToTop.vue'
 import i18n from './i18n'
 
 /* ======================
@@ -32,9 +33,7 @@ onMounted(() => {
 })
 
 const toggleLang = () => {
-  const nextLang =
-    i18n.global.locale.value === 'ua' ? 'en' : 'ua'
-
+  const nextLang = i18n.global.locale.value === 'ua' ? 'en' : 'ua'
   i18n.global.locale.value = nextLang
   localStorage.setItem('lang', nextLang)
 }
@@ -49,6 +48,9 @@ const toggleLang = () => {
 
   <!-- PAGE CONTENT -->
   <RouterView />
+
+  <!-- BACK TO TOP BUTTON -->
+  <BackToTop />
 
   <!-- GLOBAL FOOTER -->
   <Footer />
