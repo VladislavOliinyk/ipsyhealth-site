@@ -18,7 +18,7 @@
             style="object-position: center 0%;"
           />
           <div class="space-y-2">
-            <h2 class="text-xl font-semibold dark:text-white">Володимир Волошин</h2>
+            <h2 class="text-xl font-semibold">Володимир Волошин</h2>
             <p class="text-sm text-neutral-600 dark:text-neutral-300">
               PH.D., ПСИХОЛОГ (СПЕЦІАЛІЗАЦІЯ: КРИЗОВА ПСИХОЛОГІЯ, ТРАВМАТЕРАПІЯ, АРТ-ТЕРАПІЯ),<br />
               СУПЕРВІЗОР<br />
@@ -40,7 +40,7 @@
                         style="object-position: center 0%;"
           />
           <div class="space-y-2">
-            <h2 class="text-lg font-semibold dark:text-white">Юлія Іорш</h2>
+            <h2 class="text-lg font-semibold">Юлія Іорш</h2>
             <p class="text-sm text-neutral-600 dark:text-neutral-300">
               ПСИХОЛОГИНЯ, СЕРТИФІКОВАНА EFPA В ГАЛУЗІ ОСВІТИ<br />
               (СПЕЦІАЛІЗАЦІЯ: КРИЗОВА ПСИХОЛОГІЯ, ТЕРАПІЯ ПСИХОЛОГІЧНОЇ ТРАВМИ,<br />
@@ -61,7 +61,7 @@
             class="w-48 h-48 object-cover rounded-full mx-auto"
             style="object-position: center 0%;"
             />
-            <h3 class="font-semibold dark:text-white">Руслана Бондарчук</h3>
+            <h3 class="font-semibold">Руслана Бондарчук</h3>
             <p class="text-sm text-neutral-600 dark:text-neutral-300">КООРДИНАТОР<br />АДМІНІСТРАТОР</p>
           </div>
           <div class="space-y-3">
@@ -69,7 +69,7 @@
             class="w-48 h-48 object-cover rounded-full mx-auto"
             style="object-position: center 70%;"
             />
-            <h3 class="font-semibold dark:text-white">Катерина Бадюк</h3>
+            <h3 class="font-semibold">Катерина Бадюк</h3>
             <p class="text-sm text-neutral-600 dark:text-neutral-300">КООРДИНАТОР<br />АДМІНІСТРАТОР</p>
           </div>
         </div>
