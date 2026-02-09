@@ -23,7 +23,7 @@
 
             <div class="flex gap-4 justify-center">
               <!-- Facebook -->
-              <a href="https://www.facebook.com/ipsyhealth" target="_blank"
+              <a href="https://www.facebook.com/InstituteofHealthPsychology" target="_blank"
                  class="p-3 rounded-full border border-neutral-200 dark:border-neutral-800 hover:border-blue-600 transition">
                 <svg class="w-6 h-6 fill-blue-600" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                   <path d="M22 12a10 10 0 1 0-11.6 9.9v-7H8v-3h2.4V9.5c0-2.4 1.4-3.7 3.6-3.7 1 0 2 .2 2 .2v2.2h-1.1c-1.1 0-1.4.7-1.4 1.4V12H16l-.4 3h-2.1v7A10 10 0 0 0 22 12z" />
@@ -31,7 +31,7 @@
               </a>
 
               <!-- Instagram -->
-              <a href="https://www.instagram.com/ipsyhealth" target="_blank"
+              <a href="https://www.instagram.com/health_psychology_u?igsh=amxpbzlleHE2eDE5" target="_blank"
                  class="p-3 rounded-full border border-neutral-200 dark:border-neutral-800 hover:border-pink-500 transition">
                 <svg class="w-6 h-6 fill-pink-500" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm5 5.5A4.5 4.5 0 1 0 16.5 12 4.5 4.5 0 0 0 12 7.5zm0 7.3A2.8 2.8 0 0 1 14.8 12 2.8 2.8 0 0 1 12 14.8zM17.5 6.3a1.1 1.1 0 1 1-1.1-1.1 1.1 1.1 0 0 1 1.1 1.1z" />
@@ -39,7 +39,7 @@
               </a>
 
               <!-- Telegram -->
-              <a href="https://t.me/ipsyhealth" target="_blank"
+              <a href="https://t.me/HealthPsycholog/" target="_blank"
                  class="p-3 rounded-full border border-neutral-200 dark:border-neutral-800 hover:border-sky-500 transition">
                 <svg class="w-6 h-6 fill-sky-500" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                   <path d="M9.4 16.6 9 20c.6 0 .9-.3 1.2-.6l2.9-2.8 6 4.4c1.1.6 1.9.3 2.2-1l4-18.7c.3-1.4-.5-2-1.6-1.6L1.2 9.6c-1.4.5-1.4 1.3-.3 1.6l5.6 1.7L19.3 6c.6-.4 1.1-.2.7.2z" />
