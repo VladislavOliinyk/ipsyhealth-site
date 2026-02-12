@@ -57,9 +57,9 @@
       <div class="max-w-6xl mx-auto px-6">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-12 text-center">
           <div class="space-y-3">
-            <img src="/team/bodnarchyk.png" 
+            <img src="/team/bodnarchyk.jpg" 
             class="w-48 h-48 object-cover rounded-full mx-auto"
-            style="object-position: center 0%;"
+            style="object-position: center 30%;"
             />
             <h3 class="font-semibold dark:text-white">Руслана Бондарчук</h3>
             <p class="text-sm text-neutral-600 dark:text-neutral-300">КООРДИНАТОР<br />АДМІНІСТРАТОР</p>
