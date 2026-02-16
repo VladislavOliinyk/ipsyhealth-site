@@ -63,7 +63,7 @@
           <h4 class="footer-subtitle">Де ми знаходимось?</h4>
 
           <ul class="space-y-2 footer-text">
-            <li>📍 м. Київ, вул. Бердичівська, 1</li>
+            <li>📍 м. Київ</li>
             <li>✉️ ihealthpsy@gmail.com</li>
             <li>📞 +380997301395</li>
           </ul>
