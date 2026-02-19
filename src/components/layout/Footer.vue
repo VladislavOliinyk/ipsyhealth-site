@@ -173,7 +173,8 @@ const cities = [
   { name: 'м. Дніпро', person: 'Карепова Елліна', phone: '0679939683 (лише писати)', email: 'iph.dnipro@gmail.com' },
   { name: 'м. Вишневе', person: 'Франчук Тетяна', phone: '+380936092671 (писати)', email: 'iph.vyshneve@gmail.com' },
   { name: 'м. Суми', person: 'Данілова Дарʼя', phone: '+380955726854', email: 'psy.danilova.daria@gmail.com' },
-  { name: 'м. Івано-Франківськ', person: 'Дичківська Галина', phone: '+380951057555 (лише писати)', email: 'iph.ivano.frankivsk@gmail.com' }
+  { name: 'м. Івано-Франківськ', person: 'Дичківська Галина', phone: '+380951057555 (лише писати)', email: 'iph.ivano.frankivsk@gmail.com' },
+  { name: 'м. Миколаїв', person: 'Курченко Євгенія', phone: '+380503940059 (лише писати)', email: 'evanik36@ukr.net' }
 ]
 </script>
 
